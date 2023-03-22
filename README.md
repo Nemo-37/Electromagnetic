@@ -1,2 +1,1 @@
-# Electromagnetic
 Electromagnetic Ring Accelerator
